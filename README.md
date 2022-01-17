@@ -31,13 +31,28 @@
 ### CAPÍTULO 12: CAPACITORES
 
 	12–1 El capacitor básico 
+![Untitled (21)](https://user-images.githubusercontent.com/93396250/149846218-7cadf27e-1538-4659-a6c8-b1194eca5b8a.jpg)
+
 	12–2 Tipos de capacitores 
+![Untitled (22)](https://user-images.githubusercontent.com/93396250/149846223-ed5ac0bf-cfb7-4da6-9959-09e840a62951.jpg)
+	
+
 	12–3 Capacitores en serie 
 	12–4 Capacitores en paralelo 
+![Untitled (23)](https://user-images.githubusercontent.com/93396250/149846237-fe154e08-25cb-45f2-8ed9-e58fbf9c2d73.jpg)
+
 	12–5 Capacitores en circuitos de CD
+![Untitled (24)](https://user-images.githubusercontent.com/93396250/149846242-56c265c7-e33f-4571-bb1f-9dc3adde91f0.jpg)
+
 	12–6 Capacitores en circuitos de CA
+![Untitled (24)](https://user-images.githubusercontent.com/93396250/149846266-3091cb8a-361e-4a26-9675-bf3c69a6b013.jpg)
+	
 	12–7 Aplicaciones de los capacitores 
+![Untitled (25)](https://user-images.githubusercontent.com/93396250/149846258-c1c54220-b3ae-4070-a5dc-2f3020abe7c9.jpg)
+
 	12–8 Circuitos de capacitor conmutados
+![Untitled (26)](https://user-images.githubusercontent.com/93396250/149846254-2e661b86-ca60-453b-b304-17f2f2b2b86b.jpg)
+
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 	
