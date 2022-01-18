@@ -465,13 +465,99 @@ Vprom = 5 + (0.1667*5) = 5.8335 (V)
 
 	SECCIÓN 11–10 El osciloscopio
 	
-	
+
+
+
+
+
+
+
+
+
+
+
+
 ### CAPÍTULO 12: CAPACITORES
 
 	SECCIÓN 12–1 El capacitor básico 
-	SECCIÓN 12–2 Tipos de capacitores 
+**1.** 
+
+![image](https://user-images.githubusercontent.com/93396250/149892188-f6b9c658-7aa5-421f-9188-c661cc34bc65.png)
+
+**3.Transforme los siguientes valores de picofarads a microfarads:** 
+
+![image](https://user-images.githubusercontent.com/93396250/149892202-4b589a84-6596-44e1-bce5-db73f1894ae3.png)
+
+
+**5. ¿Cuánta energía guarda un capacitor de 1000 μF que se carga a 500 V?**
+
+![image](https://user-images.githubusercontent.com/93396250/149892225-62bb6e72-6cfc-474c-9025-4b5cb99212a0.png)
+
+
+
+**7. Calcule la permitividad absoluta, ε, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de εr.** 
+
+![image](https://user-images.githubusercontent.com/93396250/149892256-65f0900b-db36-4147-a63c-2b40fc9a9d79.png)
+
+**9. Un capacitor de aire tiene un área de placas total de 0.05 m2. La separación entre las placas es de 4.5 x 10-4 m. Calcule la capacitancia.**
+
+![image](https://user-images.githubusercontent.com/93396250/149892288-45730e16-643f-417d-b814-09cd5c5d2565.png)
+
+
+**11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (εr = 2.5) de 8 x 10-5 de espesor. ¿Cuál es la capacitancia de su capacitor?**
+
+![image](https://user-images.githubusercontent.com/93396250/149892344-24accaf8-37a8-45aa-88be-0a732bf10b0e.png)
+
+
+**13. Un capacitor de 0.001 μF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?**
+
+![image](https://user-images.githubusercontent.com/93396250/149892384-529aa1f3-7cab-4dc8-999e-6f785187cf99.png)
+
+
+	SECCIÓN 12–2 Tipos de capacitores
+	
+**15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?**
+
+![image](https://user-images.githubusercontent.com/93396250/149892502-592c980c-34b7-425a-9cda-8e0cd4f4b2c3.png)
+
+
+**17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?**
+
+![image](https://user-images.githubusercontent.com/93396250/149892546-2969430c-db6a-4b4c-b5da-3b5dfdcb7899.png)
+
+
+**19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68**
+	
+![image](https://user-images.githubusercontent.com/93396250/149892582-75bcfe73-30e4-4989-b075-55ea685ea7d7.png)
+
+
 	SECCIÓN 12–3 Capacitores en serie 
+**21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69.**
+
+![image](https://user-images.githubusercontent.com/93396250/149892667-4fc370ba-212b-4602-9a16-cabe73171087.png)
+
+**23. Dos capacitores en serie (uno de 1 μF, el otro de valor desconocido) se cargan con una fuente de 12 V. El capacitor de 1 μF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del capacitor desconocido?**
+
+
+![image](https://user-images.githubusercontent.com/93396250/149892702-73ae571d-bdd8-47cc-a0ce-45a248c97b3c.png)
+
+
 	SECCIÓN 12–4 Capacitores en paralelo 
+**25. Determine la CT para cada circuito de la figura 12-71.**
+
+![image](https://user-images.githubusercontent.com/93396250/149892795-9fdda74e-07c7-4ac5-9099-4fdfa9eceec9.png)
+
+
+**27. Determine la CT para cada circuito de la figura 12-72.**
+
+![image](https://user-images.githubusercontent.com/93396250/149892871-aee7882f-ffee-4e9a-8c8c-10189f830311.png)
+
+
+**29. Inicialmente, los capacitores del circuito de la figura 12-73 están descargados.**
+
+![image](https://user-images.githubusercontent.com/93396250/149892931-65d0d197-591b-46b7-9278-5e6ed7f33288.png)
+
+
 	SECCIÓN 12–5 Capacitores en circuitos de CD
 	
  **31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:**
