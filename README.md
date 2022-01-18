@@ -17,180 +17,16 @@
 
 ### CAPÍTULO 11: INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS
 
-	11–1 LA FORMA DE ONDA SINUSOIDAL
-
-![Diagrama en blanco (8)](https://user-images.githubusercontent.com/93834732/149829395-1d8b52f8-4bc4-4656-a30c-9271e583836c.png)
-
-Grafica de una onda sinusoidal
-
-![1](https://user-images.githubusercontent.com/93834732/149828592-a8f3aa04-c25b-466c-a2ee-4cf5fedcec6b.GIF)
-
-Periodo de una onda seno
-
-![Periodo](https://user-images.githubusercontent.com/93834732/149828966-bc35c04a-f12d-4235-b591-5750e987d359.GIF)
-
-El siguiente grafico muestra las fórmulas para calcular la relación entre frecuencia y periodo.
-
-![2](https://user-images.githubusercontent.com/93834732/149829223-aa41f5e3-bdf6-4a6a-9fec-7bd6b689978e.GIF)
-
-
-	11–2 FUENTES DE VOLTAJE SINUSOIDAL
-	
-	
-![Diagrama en blanco (9)](https://user-images.githubusercontent.com/93834732/149831032-dfd2052b-1cab-4872-b6c2-200558bec345.png)
-	
-	
- Grafico de un generador de corriente alterna
- 
- ![3](https://user-images.githubusercontent.com/93834732/149830356-ca71253d-cb2a-420e-b590-146d6f8fa8f6.GIF)
-
-La siguiente grafica muestra la expresión para la frecuencia en función del número de pares de polos y el número de revoluciones por segundo.
-
-![4](https://user-images.githubusercontent.com/93834732/149830728-6865441c-81c8-4231-b2bc-5799dc613b05.GIF)
-
-El siguiente grafico muestra generadores de señales electrónicas.
-
-![5](https://user-images.githubusercontent.com/93834732/149830955-7633ac59-974a-4d55-8b08-4166652b1913.GIF)
-
-	11–3 VALORES SINUSOIDALES DE VOLTAJE Y CORRIENTE
-	
-![Diagrama en blanco (10)](https://user-images.githubusercontent.com/93834732/149832410-6c6f6170-f3c2-47ba-8514-8f35af2fb77f.png)
-
-
-En la siguiente grafica se muestra una representacion de valores instantaneos
-
-![6](https://user-images.githubusercontent.com/93834732/149831727-b814f279-8bcc-4638-859c-3df1800c1b76.GIF)
-
-Grafico de la formula de valor promedio
-
-![7](https://user-images.githubusercontent.com/93834732/149832499-da0b55e8-a32c-4bf3-8beb-d049883e0a37.GIF)
-
-Grafico de una demostracion de valor pico
-
-![8](https://user-images.githubusercontent.com/93834732/149832593-23854009-f94f-4b52-bd2e-afe83b76ef2c.GIF)
-
-
-	11–4 MEDICIÓN ANGULAR DE UNA ONDA SENO
-	
-Las ondas seno se miden a lo largo del eje horizontal con base en el tiempo.
-
-*Medición angular*
-
-Un grado es una medida angular correspondiente a 1/360 de un círculo o una revolución completa. Un radián(rad) equivale a 57.3° En una revolución de 360°, hay 2p radianes.
-
-![9](https://user-images.githubusercontent.com/93834732/149832996-82105713-d8cb-4b53-b00e-a357be313b47.GIF)
-
-![10](https://user-images.githubusercontent.com/93834732/149833001-65ddd4f6-eb41-4429-b854-1d985b7cb67c.GIF)
-
-La siguiente grafica muestra como seria una onda seno en grados y en radianes.
-
-![11](https://user-images.githubusercontent.com/93834732/149833201-b913bb43-0c82-4843-9017-2b83a1854402.GIF)
-
-*Fase de una onda seno*
-
-Es una medición angular que especifica la posición de dicha onda seno con respecto a una referencia
-
-Grafico para comprender mejor los desplazamientos de fase
-
-![12](https://user-images.githubusercontent.com/93834732/149833501-21b6b10b-2f58-41fe-a265-733ed084473d.GIF)
-
-
-	11–5 LA FÓRMULA DE LA ONDA SENO
-
-Una onda seno puede representarse gráficamente mediante valores de voltaje o corriente en el eje vertical y por una medición angular ya sea en grados o radianes a lo largo del eje horizontal.
-
-En la siguiente figura se muestra la ecuación de la onda seno
-
-![13](https://user-images.githubusercontent.com/93834732/149851040-89169a61-5f5c-4e6a-bcb4-3abf2b1eba5b.GIF)
-	
-En la siguiente grafica se muestra la ecuación de la onda seno con variación de fase, cabe recalcar que la suma, es una suma algebraica	
-	
-![14](https://user-images.githubusercontent.com/93834732/149851102-10ac4eb6-bef4-4b68-8673-89547eb5ffc4.GIF)
-
-
-	11–6 INTRODUCCIÓN A LOS FASORES
-
-
-![Diagrama en blanco (11)](https://user-images.githubusercontent.com/93834732/149851805-0149b8b4-f480-48c5-b736-2bec65263fc9.png)
-
-
-En la siguiente grafica se muestra como es un fasor
-
-![15](https://user-images.githubusercontent.com/93834732/149851879-4f3574a7-2c2a-4a64-a1f5-add2a6cc06a4.GIF)
-
-
-	11–7 ANÁLISIS DE CIRCUITOS DE CA
-
-La ley de Ohm, las leyes de Kirchhoff, y las fórmulas de potencia se aplican a circuitos de corriente alterna de igual forma que se aplican a circuitos de corriente directa.
-
-El voltaje y la corriente deben expresarse consistentemente, es decir, ambos como valores pico, ambos como valores rms, ambos como valores promedio, etc. 
-
-En el siguiente grafico se muestra como calcular la potencia en un circuito con corriente y voltaje alternos
-
-![16](https://user-images.githubusercontent.com/93834732/149852189-95c38822-c604-4f8a-806b-b38dff4c4cb1.GIF)
-Recuerde que se deben utilizar valores rms de corriente y voltaje
-
-
-	11–8 VOLTAJES SUPERPUESTOS DE CD Y DE CA
-	
-En muchos circuitos prácticos, se encontrarán tanto voltajes de corriente directa como de corriente alterna combinados. Un ejemplo de esto se encuentra en circuitos de amplificador donde los voltajes de señal de ca se superponen en los voltajes de operación de corriente directa.
-
-![17](https://user-images.githubusercontent.com/93834732/149856650-8b6cab67-d6d1-4745-84ba-fdbf4448307a.GIF)
-
-Estos dos voltajes se sumarán algebraicamente para producir un voltaje de corriente alterna “montado” en un nivel de corriente directa.
-
-
-	11–9 FORMAS DE ONDA NO SINUSOIDALES
-
-Otros dos tipos importantes de formas de onda son la forma de onda pulsante y la forma de onda triangular. 
-
-*Formas de onda pulsantes*
-
-Un pulso puede ser descrito como una transición muy rápida (borde de entrada) de un nivel de corriente o voltaje (línea de base) a un nivel de amplitud, y luego, después de un
-intervalo de tiempo, una transición muy rápida (borde de salida) de regreso al nivel de línea de base original. 
-
-El siguiente grafica ilustra lo anteriormente explicado
-
-![18](https://user-images.githubusercontent.com/93834732/149857695-190a0170-a8a2-44a7-8463-b4411610ef67.GIF)
-
-*Pulsos repetitivos*
-
-Son ondas que se repite a intervalos fijos como se muestra en el siguiente grafico
-
-![19](https://user-images.githubusercontent.com/93834732/149857809-86931ffd-8ab8-4187-b088-59adb556f631.GIF)
-
-Una característica importante de las formas de onda pulsantes repetitivas es el ciclo de trabajo.
-La siguiente formula ilustra como calcular dicho trabajo
-
-![22](https://user-images.githubusercontent.com/93834732/149858144-6268f601-3162-431b-99b9-6ba439622064.GIF)
-
-El valor promedio de una forma de onda pulsante es igual al valor de línea de base más su ciclo de trabajo multiplicado por su
-amplitud
-![23](https://user-images.githubusercontent.com/93834732/149858230-c0db48a3-a3cd-40e0-9161-24af451a5938.GIF)
-
-*Formas de onda triangulares y diente de sierra*
-
-Se forman por rampas de voltaje o corriente, una rampa es un incremento o una reducción lineal del voltaje o de la corriente.
-
-![20](https://user-images.githubusercontent.com/93834732/149858011-9d428908-980a-415f-99ec-0b4539fa00fd.GIF)
-![21](https://user-images.githubusercontent.com/93834732/149858041-d4c84669-eb1d-49db-bad7-e3b2349bfb97.GIF)
-
-*Armónicos*
-
-La frecuencia fundamental es la rapidez de repetición de la forma de onda, y los armónicos son las ondas seno de alta frecuencia que son múltiplos de la frecuencia fundamental.
-
-Pueden existir armónicos pares o impares, también están las formas de ondas compuestas que pueden ser la combinación de los armónicos previamente mencionados
-
-![24](https://user-images.githubusercontent.com/93834732/149858479-5b3cdd2f-842c-4ce8-9695-da858435b13e.GIF)
-
-
-	11–10 EL OSCILOSCOPIO
-
-![Diagrama en blanco (12)](https://user-images.githubusercontent.com/93834732/149859184-8a5eacd3-6fee-429c-9f94-3425ddeaf6bc.png)
-
-En el siguiente gráfico se pueden observar un osciloscopio analógico y otro digital
-
-![25](https://user-images.githubusercontent.com/93834732/149859328-fa6ea4b5-b164-40eb-8e3c-5585a4e82a2e.GIF)
+	11–1 La forma de onda sinusoidal 
+	11–2 Fuentes de voltaje sinusoidal 
+	11–3 Valores sinusoidales de voltaje y corriente 
+	11–4 Medición angular de una onda seno 
+	11–5 La fórmula de la onda seno 
+	11–6 Introducción a los fasores 
+	11–7 Análisis de circuitos de CA
+	11–8 Voltajes superpuestos de CD y de CA 
+	11–9 Formas de onda no sinusoidales 
+	11–10 El osciloscopio
 	
 ### CAPÍTULO 12: CAPACITORES
 
@@ -200,7 +36,6 @@ En el siguiente gráfico se pueden observar un osciloscopio analógico y otro di
 	12–2 Tipos de capacitores 
 ![Untitled (22)](https://user-images.githubusercontent.com/93396250/149846223-ed5ac0bf-cfb7-4da6-9959-09e840a62951.jpg)
 	
-
 	12–3 Capacitores en serie 
 	12–4 Capacitores en paralelo 
 ![Untitled (23)](https://user-images.githubusercontent.com/93396250/149846237-fe154e08-25cb-45f2-8ed9-e58fbf9c2d73.jpg)
@@ -229,8 +64,81 @@ En el siguiente gráfico se pueden observar un osciloscopio analógico y otro di
 	11–5 La fórmula de la onda seno 
 	11–6 Introducción a los fasores 
 	11–7 Análisis de circuitos de CA
+	
+**27. Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2 en la figura 11-81. Todos los valores mostrados son rms.**
+
+![Screenshot 2022-01-17 202539](https://user-images.githubusercontent.com/93826527/149854947-e0e2da56-88d0-4426-85c5-d31353258e00.png)
+
+V_R2= 65-30 = 35 *1.414 = 49.5 * 0.637 = 31.52
+
+Vrms= 35
+
+Vpico = 49.5 
+
+Vprom= 31.52
+
+V_R1= 110-65 = 45 * 1.414 = 63.7 * 0.637 = 40.57 
+
+Vrms= 45
+
+Vpico = 63.7
+
+Vprom= 40.57
+
+
 	11–8 Voltajes superpuestos de CD y de CA 
+	
+**29. Una onda seno con valor rms de 10.6 V aparece montada sobre un nivel de cd de 24 V. ¿Cuáles son los valores máximo y mínimo de la forma de onda resultante?**
+
+Vp= Vrms * 1.414 = 10.6 * 1.414 = 14.99
+
+Vmáx = Vcd+Vp = 24+14.99 = 38.99
+
+Vmín = Vcd-Vp = 24-14.99 = 3.01
+
+
+Por consiguiente, VR(tot) es una onda seno no alterna que varía desde 38.99 (V) hasta 14.99 (V)
+
+**31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V, ¿qué tan negativa llegaría a ser la onda seno?**
+
+Vmín1 = 8-6 = 2
+
+Vmín2 = 5-6 = -1
+
+La onda llegaría a un valor de -1 como mínimo
+
+
 	11–9 Formas de onda no sinusoidales 
+	
+**33. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud**
+
+![Screenshot 2022-01-17 204416](https://user-images.githubusercontent.com/93826527/149856393-d72cdb19-6c6a-4df5-97c2-9735db301bc4.png)
+
+![Screenshot 2022-01-17 205323](https://user-images.githubusercontent.com/93826527/149857137-73714535-e48e-4580-92c1-8adeca4f1054.png)
+
+tr = 3 (ms)
+
+tf = 3 (ms)
+
+tW = 12 (ms)
+
+Amplitud es 5 (V), esto debido a que la línea base esta en cero (V)
+
+**35. Calcule el valor promedio de la forma de onda pulsante mostrada en la figura 11-85. **
+
+![Screenshot 2022-01-17 205641](https://user-images.githubusercontent.com/93826527/149857422-517be814-1873-4e4a-9a57-81d3762dad54.png)
+
+T = 6 (μs)
+
+tw = 1 (μs)
+
+ciclo de trabajo = (1/6)*100% = 16.67%
+
+Vprom = 5 + (0.1667*5) = 5.8335 (V)
+
+
+
+
 	11–10 El osciloscopio
 	
 	
@@ -241,6 +149,67 @@ En el siguiente gráfico se pueden observar un osciloscopio analógico y otro di
 	12–3 Capacitores en serie 
 	12–4 Capacitores en paralelo 
 	12–5 Capacitores en circuitos de CD
+	
+ **31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:**
+ 
+ a) t = R * C = 0.002632 (s) * 5 = 0.846 (s) es el tiempo que se necesita para cargar el capacitor
+ 
+ b) t = R * C = 49.5 (μs) *5 = 247.5 (μs)
+ 
+ c) t = 2.2 (ms) *5 = 11 (ms)
+ 
+ d) t = 56 (ms) *5 = 280 (ms)
+ 
+ **33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores**
+ 
+a) t = R*C = 1.5 (ms)
+ 
+ ![Screenshot 2022-01-17 213259](https://user-images.githubusercontent.com/93826527/149860880-1830697e-c104-497b-8a3a-2de6b58cf90c.png)
+
+Vc = 25 * 0.36787 = 9.196 (V)
+
+b) t = R*C = 1.5 (ms)
+ 
+ ![Screenshot 2022-01-17 213259](https://user-images.githubusercontent.com/93826527/149860880-1830697e-c104-497b-8a3a-2de6b58cf90c.png)
+
+Vc = 25 * 0.04978 = 1.2445 (V)
+
+c) t = R*C = 1.5 (ms)
+ 
+ ![Screenshot 2022-01-17 213259](https://user-images.githubusercontent.com/93826527/149860880-1830697e-c104-497b-8a3a-2de6b58cf90c.png)
+
+Vc = 25 * 0.01831 = 457.7 (mV)
+
+d) t = R*C = 1.5 (ms)
+ 
+ ![Screenshot 2022-01-17 213259](https://user-images.githubusercontent.com/93826527/149860880-1830697e-c104-497b-8a3a-2de6b58cf90c.png)
+
+Vc = 25 * 0.00673 = 168.25 (mV)
+
+**35. Repita el problema 33 con los siguientes tiempos:**
+
+a) t = R*C = 1.5 (ms)
+ 
+ ![Screenshot 2022-01-17 213259](https://user-images.githubusercontent.com/93826527/149860880-1830697e-c104-497b-8a3a-2de6b58cf90c.png)
+
+Vc = 25 * 0.71653 = 17.913 (V)
+
+b) t = R*C = 1.5 (ms)
+ 
+ ![Screenshot 2022-01-17 213259](https://user-images.githubusercontent.com/93826527/149860880-1830697e-c104-497b-8a3a-2de6b58cf90c.png)
+
+Vc = 25 * 0.51341 = 12.835 (V)
+
+c) t = R*C = 1.5 (ms)
+ 
+ ![Screenshot 2022-01-17 213259](https://user-images.githubusercontent.com/93826527/149860880-1830697e-c104-497b-8a3a-2de6b58cf90c.png)
+
+Vc = 25 * 0.26359 = 6.589 (V)
+
+
+
+	
+	
 	12–6 Capacitores en circuitos de CA
 	12–7 Aplicaciones de los capacitores 
 	12–8 Circuitos de capacitor conmutados
