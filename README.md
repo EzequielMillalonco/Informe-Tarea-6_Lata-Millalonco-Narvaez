@@ -3,15 +3,16 @@
 ## 1.	OBJETIVOS
 
 	1.1	GENERAL: 
-.
+
+Fundamentar e evaluar sistemas de corriente y voltaje alterno, relacionandolos con circuitos capacitivos. 
 
 	1.2	ESPECÍFICOS:
 
-**a.**	
+**a.**	Identificar las características de una onda sinusoidal y definir características de corriente y voltaje alterno.
 		
-**b.**	
+**b.**	Analizar circuitos capacitivos, mediante sus diferentes propiedades físicas.
 
-**c.**	
+**c.**	Determinar la relación serie - paralelo de circuitos capacitivos, relacionando analogamente con circuitos resistivos.
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
@@ -596,7 +597,7 @@ d) t = R*C = 1.5 (ms)
 
 Vc = 25 * 0.00673 = 168.25 (mV)
 
-**35. Repita el problema 33 con los siguientes tiempos:**
+**49. Repita el problema 33 con los siguientes tiempos:**
 
 a) t = R*C = 1.5 (ms)
  
@@ -615,13 +616,7 @@ c) t = R*C = 1.5 (ms)
  ![Screenshot 2022-01-17 213259](https://user-images.githubusercontent.com/93826527/149860880-1830697e-c104-497b-8a3a-2de6b58cf90c.png)
 
 Vc = 25 * 0.26359 = 6.589 (V)
-
-
-
-	
-	
-	SECCIÓN 12–6 Capacitores en circuitos de CA
-
+		
 	
 	SECCIÓN 12–7 Aplicaciones de los capacitores 
 
@@ -646,11 +641,11 @@ https://youtu.be/2iV6VzArCmY
 	
 ## 5.	CONCLUSIONES
         
-**a.**	
+**a.**	Se logró concluir, que un circuito de corriente o voltaje alterno, se basa en ondas sinusoidales. Es decir que tiene un pico máximo y uno mínimo, siendo este de polaridad diferente, cada que pasa por la línea base hacia el eje positivo o negativo.
 		
-**b.**	
+**b.**	Los capacitores y por consecuencia los circuitos capacitivos, tienen características físicas que les permiten guardar energía eléctrica en forma de carga, debido a que pueden absorver todos los electrones en uno de sus polos y mantenerlos allí hasta que se necesite descargarlos sobre algún circuito o elemento.
 
-**c.**	
+**c.**	Se pudo evidenciar la relación analoga que tienen los circuitos capacitivos y resistivos, mediante sus fórmulas para encontrar capacitores y resistencias en serie, paralelo, lo cual indica que mientras las resistencias ayudan a controlar voltaje, mientras los capacitores controlan corriente absorviendo carga.
 
 ## 6.	BIBLIOGRAFÍA
 
