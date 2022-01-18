@@ -58,7 +58,7 @@
 ### CAPÍTULO 11: INTRODUCCIÓN A LA CORRIENTE Y AL VOLTAJE ALTERNOS
 
 
-SECCIÓN 11–1 La forma de onda sinusoidal
+	SECCIÓN 11–1 La forma de onda sinusoidal
 
 1. Calcule la frecuencia con cada uno de los siguientes valores de periodo:
 
@@ -268,7 +268,7 @@ Vmín2 = 5-6 = -1
 La onda llegaría a un valor de -1 como mínimo
 
 
-	11–9 Formas de onda no sinusoidales 
+	SECCIÓN 11–9 Formas de onda no sinusoidales 
 	
 **33. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud**
 
@@ -299,16 +299,16 @@ Vprom = 5 + (0.1667*5) = 5.8335 (V)
 
 
 
-	11–10 El osciloscopio
+	SECCIÓN 11–10 El osciloscopio
 	
 	
 ### CAPÍTULO 12: CAPACITORES
 
-	12–1 El capacitor básico 
-	12–2 Tipos de capacitores 
-	12–3 Capacitores en serie 
-	12–4 Capacitores en paralelo 
-	12–5 Capacitores en circuitos de CD
+	SECCIÓN 12–1 El capacitor básico 
+	SECCIÓN 12–2 Tipos de capacitores 
+	SECCIÓN 12–3 Capacitores en serie 
+	SECCIÓN 12–4 Capacitores en paralelo 
+	SECCIÓN 12–5 Capacitores en circuitos de CD
 	
  **31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:**
  
@@ -370,10 +370,20 @@ Vc = 25 * 0.26359 = 6.589 (V)
 
 	
 	
-	12–6 Capacitores en circuitos de CA
-	12–7 Aplicaciones de los capacitores 
-	12–8 Circuitos de capacitor conmutados
+	SECCIÓN 12–6 Capacitores en circuitos de CA
 
+	
+	SECCIÓN 12–7 Aplicaciones de los capacitores 
+
+51. Si se conecta otro capacitor en paralelo con el capacitor existente en el filtro de fuente de potencia de la figura 12-53, ¿cómo se ve afectado el voltaje de fluctuación?
+
+El voltaje se reduce
+
+	SECCIÓN 12–8 Circuitos de capacitor conmutado
+	
+53. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula.
+
+El valor de la resistencia que emula es de 45 Kilo Ohms
 
 ## 4.	VIDEO
 	
