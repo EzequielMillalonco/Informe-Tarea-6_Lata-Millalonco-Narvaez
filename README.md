@@ -632,12 +632,12 @@ El valor de la resistencia que emula es de 45 Kilo Ohms
 
 ## 4.	VIDEO
 	
-	Link del video ¨Informe tarea 1¨, en dondé se explican 4 ejercicios vistos en la Tarea #1 :
+	Link del video ¨Informe tarea 6¨, en dondé se explican 4 ejercicios vistos en la Tarea #6 :
 	
-https://youtu.be/2iV6VzArCmY
+https://youtu.be/Tztelpws1Uo
 	
 	
-[![Presentación Tarea 1](https://img.youtube.com/vi/2iV6VzArCmY/0.jpg)](https://www.youtube.com/watch?v=2iV6VzArCmY)
+[![Presentación Tarea 1](https://img.youtube.com/vi/Tztelpws1Uo/0.jpg)](https://www.youtube.com/watch?v=Tztelpws1Uo)
 	
 ## 5.	CONCLUSIONES
         
